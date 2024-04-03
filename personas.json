@@ -2,19 +2,16 @@
   {
     "nombre":"Luis",
     "apellido":"Garcia",
-    "edad":20,
     "Nacionalidad": "Española"
   },
   {
     "nombre":"Anna",
     "apellido":"Hernandez",
-    "edad":22,
     "Nacionalidad": "Argentina"
   },
   {
     "nombre":"Alex",
     "apellido":"Aracil",
-    "edad":31,
     "Nacionalidad":"Española"
   }
 ]
